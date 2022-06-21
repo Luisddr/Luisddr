@@ -21,6 +21,12 @@
 </ul>
 </div>
 
+ 
+<h4>🔥 my stats:</h4>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luisddr&theme=monokai)](https://git.io/streak-stats)
+
+
 
 
 <!--
