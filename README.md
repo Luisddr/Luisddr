@@ -42,7 +42,7 @@ I'm also open to freelance collaborations, MVP development, and partnerships wit
 
 ## 📫 Get in Touch
 
-- 📬 luiscarlosdediosrodriguez@gmail.com
+- 📬 luisdediosr@gmail.com
 
 ---
 
