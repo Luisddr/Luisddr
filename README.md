@@ -63,3 +63,5 @@ Si tienes una idea, un MVP por lanzar, o quieres optimizar la atención de tu ne
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luisddr&theme=monokai)](https://git.io/streak-stats)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luisddr)](https://git.io/streak-stats)
